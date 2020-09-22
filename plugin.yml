@@ -1,0 +1,26 @@
+name: Talecraft
+version: 1.0
+author: LielAmar
+main: dev.lielamar.talecraft.Main
+description: The official plugin of "TaleCraft".
+api-version: 1.13
+
+commands:
+    startstreaming:
+        description: Start a stream
+        aliases: [starts]
+    stopstreaming:
+        description: Stop a stream
+        aliases: [stops] 
+    confirm:
+        description: Confirm your action
+    spectate:
+        description: Spectate the youtubers!
+        aliases: [spec, tp, teleport, port, watch]
+    taledebug:
+        description: Debuging talecraft!
+        aliases: [tdbg, tdb]
+    bed:
+        description: Bed command
+    luciferitem:
+        description: get a luciferitem
