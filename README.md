@@ -1,6 +1,6 @@
 # Talecraft
 
-[<img alt="discord" src="https://lielamar.com/other/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
+[<img alt="discord" src="https://lielamar.com/cdn/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
 <br>
 [<img alt="talecraft" src="https://lielamar.com/images/talecraft.png" width=150>](https://talecraft.co.il/)
 
